@@ -2,7 +2,7 @@
 **Lead Analyst Perspective – Enterprise Supply Chain**
 
 ## Purpose of This Portfolio
-This portfolio demonstrates how I approach inventory optimization at an enterprise level, with a focus on translating statistical analysis into practical inventory policies, system parameters, and executive-level decisions. The work here reflects how I would operate as a Lead Inventory Optimization Analyst—balancing service levels, working capital, and risk through disciplined, cross-functional alignment.
+This portfolio demonstrates how I approach inventory optimization at an enterprise level, with a focus on translating statistical analysis into practical inventory policies, system parameters, and executive-level decisions. The work here reflects how I would operate as a Lead Inventory Optimization Analyst, balancing service levels, working capital, and risk through disciplined, cross-functional alignment.
 
 Rather than treating inventory optimization as a purely mathematical exercise, this portfolio shows how inventory decisions are shaped by demand variability, lead-time risk, system constraints, and organizational alignment across supply planning, operations, procurement, and finance.
 
@@ -11,14 +11,14 @@ Rather than treating inventory optimization as a purely mathematical exercise, t
 ## Inventory Optimization Philosophy
 I do not view service level, working capital, risk reduction, and cross-functional alignment as competing priorities. In practice, cross-functional alignment is the foundation that enables the other three to be optimized in a sustainable way.
 
-From experience in high-volume distribution and supply chain operations, service level targets only hold when demand planning, procurement, operations, and finance are aligned on assumptions, constraints, and trade-offs. When alignment breaks down, inventory decisions become reactive—driving excess working capital through overstocking or increasing risk through stockouts and expedited freight.
+From experience in high-volume distribution and supply chain operations, service level targets only hold when demand planning, procurement, operations, and finance are aligned on assumptions, constraints, and trade-offs. When alignment breaks down, inventory decisions become reactive, driving excess working capital through overstocking or increasing risk through stockouts and expedited freight.
 
 Working capital efficiency and risk reduction are outcomes of disciplined, aligned decision-making. When teams share a common understanding of demand variability, lead-time uncertainty, and service commitments, inventory parameters such as safety stock, reorder points, lot sizes, and SKU segmentation can be tuned intentionally rather than defensively. This alignment also enables faster course correction in environments affected by seasonality, promotions, or supplier volatility.
 
 ---
 
 ## What This Portfolio Demonstrates
-This repository is organized to mirror how inventory optimization work is structured in an enterprise environment—from strategy and policy through execution and performance monitoring.
+This repository is organized to mirror how inventory optimization work is structured in an enterprise environment, from strategy and policy through execution and performance monitoring.
 
 ### 00_executive_overview
 High-level inventory strategy, operating principles, and executive-facing summaries that frame how inventory decisions support customer service, financial performance, and risk management.
